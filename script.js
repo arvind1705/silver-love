@@ -7,7 +7,7 @@ var minSize = 50;
 var hearts = [];
 
 var chars = [
-  "❤","♡","♥", "❥"
+  "❤","♡","SA","♥", "❥"
 ]
 
 function Particle(x, y){
