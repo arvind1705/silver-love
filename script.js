@@ -115,8 +115,8 @@ function draw(){
   stroke(240, 100, 50);
   textSize(size);
   strokeWeight(size/15);
-  text("You make my heart", width/2, height*.4);
-  text("burst with love", width/2, height*.5);
+//   text("", width/2, height*.4);
+//   text("b", width/2, height*.5);
   text("♡", width/2, height*.6);
   
 }
