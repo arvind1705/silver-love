@@ -7,7 +7,7 @@ var minSize = 50;
 var hearts = [];
 
 var chars = [
-  "❤","♡","♥", 
+  "❤","♡","♥", "❥"
 ]
 
 function Particle(x, y){
@@ -117,7 +117,7 @@ function draw(){
   strokeWeight(size/15);
 //   text("", width/2, height*.4);
 //   text("b", width/2, height*.5);
-  text("♡", width/2, height*.6);
+//   text("♡", width/2, height*.6);
   
 }
 
